@@ -1,2 +1,2 @@
-# reverse-resolution-webpack
+# enigma
 逆引きwebpackのサンプルコードリポジトリ
