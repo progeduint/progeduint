@@ -1,2 +1,2 @@
-# enigma
+# amesh
 逆引きwebpackのサンプルコードリポジトリ
