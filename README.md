@@ -1,2 +1,2 @@
-# amesh
+# progeduint
 逆引きwebpackのサンプルコードリポジトリ
